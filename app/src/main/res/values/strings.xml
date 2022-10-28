@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningTasks3.2</string>
+    <string name="icon_holder">Icon Holder</string>
+    <string name="app_desc1">Lambo</string>
+    <string name="app_desc2">Pagani</string>
+    <string name="app_desc3">Senna</string>
+    <string name="app_desc4">Evox</string>
+    <string name="app_title">Types Of Cars</string>
+</resources>
